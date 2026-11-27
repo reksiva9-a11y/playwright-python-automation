@@ -1,0 +1,14 @@
+venv1/
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.auth/
+playwright/.auth/
+test-results/
+playwright-report/
+reports/*
+!reports/.gitkeep
